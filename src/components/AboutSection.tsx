@@ -52,8 +52,9 @@ const AboutSection = () => {
             About <span className="text-primary">Me</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Passionate about bridging the gap between traditional engineering and 
-            cutting-edge digital transformation
+            Aspiring robotics and automation engineer with a strong foundation in computer engineering. Passionate about creating smart, innovative systems to drive digital transformation and industry advancement.
+
+
           </p>
         </div>
 
