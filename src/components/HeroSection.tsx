@@ -1,7 +1,6 @@
 import { ChevronDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import heroImage from "@/assets/hero-robotics.jpg";
-import profileImage from "@/assets/rahul-profile.jpg";
 
 const HeroSection = () => {
   const scrollToAbout = () => {
@@ -31,7 +30,7 @@ const HeroSection = () => {
         <div className="mb-8 animate-fade-in">
           <div className="w-32 h-32 mx-auto mb-6 relative">
             <img
-              src={profileImage}
+              src="/lovable-uploads/bafce9c1-e059-4300-9af9-13d5c1cbd26e.png"
               alt="Rahul Gudarlahalli Narasimha Reddy"
               className="w-full h-full object-cover rounded-full border-4 border-primary/50 shadow-glow animate-glow-pulse"
             />
