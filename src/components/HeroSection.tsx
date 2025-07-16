@@ -46,11 +46,11 @@ const HeroSection = () => {
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
             Passionate{" "}
             <span className="text-primary font-semibold">
-              Automation & Digitalization
+              Digitalization & Automation
             </span>{" "}
             student crafting the future of{" "}
             <span className="text-accent font-semibold">
-              robotics, IoT, and industrial innovation
+              Robotics, IoT, IT Solution and industrial innovation
             </span>
           </p>
 

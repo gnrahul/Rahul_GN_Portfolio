@@ -5,60 +5,59 @@ import { Calendar, MapPin, Briefcase, ChevronRight } from "lucide-react";
 const ExperienceSection = () => {
   const experiences = [
     {
-      title: "Automation Engineering Intern",
-      company: "Industrial Technology Solutions",
+      title: "Werkstudent Rider",
+      company: "Flink Gmbh",
       location: "Hamburg, Germany",
-      period: "Jul 2024 - Present",
-      type: "Internship",
+      period: "Feb 2024 - Dec 2024",
+      type: "Werkstudent",
       description: [
-        "Developed and implemented IoT-based monitoring systems for industrial equipment",
-        "Collaborated on robotics automation projects using KUKA robotic arms",
-        "Created data analytics dashboards for real-time production monitoring",
-        "Assisted in digital transformation initiatives for manufacturing processes"
+        "Delivered groceries efficiently and reliably across Hamburg using e-bikes.",
+"Provided friendly, on-time customer service in a fast-paced, tech-driven environment.",
+"Worked as part of an international team, meeting daily targets and adapting quickly to logistics challenges."
       ],
-      technologies: ["KUKA Robotics", "Industrial IoT", "Data Analytics", "Python", "LabVIEW"]
+      technologies: ["Flink Rider App", "Android-based Delivery Platforms", "GPS Tools", "logistic Platform"]
     },
     {
-      title: "Research Assistant",
-      company: "Hamburg University of Applied Sciences",
-      location: "Hamburg, Germany",
-      period: "Jan 2024 - Jun 2024",
-      type: "Research",
+      title: "Electrical Associate Engineer",
+      company: "Rahul Electronics Pvt. Ltd",
+      location: "Karnataka, India",
+      period: "Feb 2023 – Sep 2023",
+      type: "Associate Engineer",
       description: [
-        "Conducted research on advanced automation systems for sustainable manufacturing",
-        "Developed machine learning models for predictive maintenance",
-        "Collaborated with industry partners on digitalization projects",
-        "Published research findings on IoT applications in industrial settings"
+        "Assisted in designing and servicing low- and mid-voltage systems",
+"Diagnosed system faults and performed hands-on repairs",
+"Coordinated with internal teams to streamline service workflows"
       ],
-      technologies: ["Machine Learning", "Predictive Analytics", "IoT", "MATLAB", "TensorFlow"]
+      technologies: ["Generators", "Electrical Motors", "Winding", "Circuit Design Tools", "MS Excel", "Electrical Repair"]
     },
     {
-      title: "Junior Automation Engineer",
-      company: "Tech Solutions Pvt. Ltd.",
-      location: "India",
-      period: "Jun 2023 - Dec 2023",
-      type: "Full-time",
+      title: "Insurance Coordinator Executive",
+      company: "Kalyani Motors Arena Pvt. Ltd.",
+      location: "Bangalore, India",
+      period: " Apr 2022 – Jan 2023",
+      type: "Automobile Coordinator",
       description: [
-        "Designed and implemented automated control systems for manufacturing lines",
-        "Programmed PLCs and HMIs for various industrial applications",
-        "Conducted system integration and troubleshooting activities",
-        "Collaborated with cross-functional teams on process optimization"
+        "Handled coordination between internal teams and insurers for smooth policy renewals and reporting.",
+        "Processed and tracked insurance claims and customer data",
+"Created structured Excel reports for monthly performance",
+"Maintained client communication with professionalism and clarity"
       ],
-      technologies: ["PLC Programming", "HMI Design", "SCADA", "Industrial Networks", "C++"]
+      technologies: ["MS Excel", "CRM Tools", "Office 365", "Internal Sales Dashboards"]
     },
     {
-      title: "Electronics Engineering Intern",
-      company: "Innovation Labs",
-      location: "India",
+      title: "Image Processing & Automation Intern",
+      company: "SKILLBOT Labs",
+      location: "Bangalore, India",
       period: "May 2022 - Aug 2022",
       type: "Internship",
       description: [
-        "Developed embedded systems for IoT applications",
-        "Designed and tested electronic circuits and PCBs",
-        "Worked on sensor integration and data acquisition systems",
-        "Participated in product development lifecycle"
+        "Developed a pattern recognition algorithm to distinguish between currency denominations",
+"Processed and cleaned image data to enhance recognition accuracy",
+"Applied feature extraction and template matching to identify note characteristics",
+"Assisted in testing the system under different lighting and note conditions to improve robustness",
+"Documented the process and presented results with demos"
       ],
-      technologies: ["Embedded Systems", "PCB Design", "Sensors", "Arduino", "Embedded C"]
+      technologies: ["MATLAB", "Image Processing Toolbox", "Pattern Matching", "Feature Extraction", "Data Cleaning Techniques"]
     }
   ];
 

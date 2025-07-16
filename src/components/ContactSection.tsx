@@ -278,7 +278,7 @@ const ContactSection = () => {
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-border text-center">
           <p className="text-muted-foreground">
-            © 2024 Rahul Gudarlahalli Narasimha Reddy. All rights reserved.
+            © 2025 Rahul Gudarlahalli Narasimha Reddy. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground mt-2">
             Built with passion for automation and innovation

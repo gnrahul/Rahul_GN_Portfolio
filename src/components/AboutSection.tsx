@@ -5,29 +5,32 @@ import { Calendar, MapPin, GraduationCap, Target } from "lucide-react";
 const AboutSection = () => {
   const education = [
     {
-      degree: "Master Science",
-      field: "Automation and Digitalization",
-      institution: "Hamburg University of Applied Sciences",
-      location: "Hamburg, Germany",
-      period: "2023 - Present",
+      degree: "Master of Science",
+      field: "Digitalization & Automation",
+      institution: "PFH University of Applied Sciences",
+      location: "Stade, Lower Saxony, Germany",
+      period: "October 2023 – September 2025 (Expected)",
       highlights: [
-        "Advanced Robotics & Control Systems",
-        "Industrial IoT Implementation",
-        "Data Analytics & Machine Learning",
-        "Digital Transformation Strategies"
+        "Specialized in automation systems, robotics, and industrial data analysis",
+"Completed projects on KUKA robotic simulation, 3-axis linear gantry, and IoT-based monitoring systems",
+"Gained hands-on experience in Python, Simulink, and control systems",
+"Focused on real-world industrial applications of digital technologies",
+"Collaborated in multi-national teams on sustainability-driven engineering problems"
       ]
     },
     {
       degree: "Bachelor of Technology",
-      field: "Electronics and Communication Engineering",
-      institution: "Previous Institution",
-      location: "India",
-      period: "2019 - 2023",
+      field: "Computer Science and Engineering",
+      institution: "BNM Institution of Technology",
+      location: "Bangalore, India",
+      period: "September 2018 – January 2022",
       highlights: [
-        "Embedded Systems Design",
-        "Signal Processing",
-        "Control Systems",
-        "Communication Networks"
+        "Built strong foundations in programming, databases, and system design",
+
+"Led project on Fake Account Detection on Twitter using ML techniques",
+"Developed a Currency Recognition System using MATLAB and image processing",
+"Engaged in team-based development using PHP, MySQL, and data visualization tools",
+"Participated in national-level tech fests and workshops on AI and automation"
       ]
     }
   ];
@@ -66,10 +69,7 @@ const AboutSection = () => {
                   <h3 className="text-xl font-semibold text-foreground">Personal Mission</h3>
                 </div>
                 <p className="text-muted-foreground leading-relaxed">
-                  As a proactive Automation and Digitalization student based in Hamburg, Germany, 
-                  I'm passionate about leveraging cutting-edge technologies to solve real-world 
-                  industrial challenges. My enthusiasm for robotics, IoT, and data analytics 
-                  drives me to continuously explore innovative solutions.
+                  I’m a curious and driven student of Digitalization and Automation based in Hamburg, with a strong interest in robotics, IoT, and intelligent systems. I love applying technology to real-world industrial challenges—whether it's optimizing workflows, automating tasks, or building smarter solutions. I’m always eager to learn, improve, and create impact through innovation.
                 </p>
               </CardContent>
             </Card>

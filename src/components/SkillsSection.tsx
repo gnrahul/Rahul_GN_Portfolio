@@ -21,10 +21,10 @@ const SkillsSection = () => {
       bgColor: "bg-primary/20",
       skills: [
         { name: "Python", level: 90 },
-        { name: "C/C++", level: 85 },
+        { name: "C/C++", level: 55 },
         { name: "MATLAB", level: 80 },
         { name: "JavaScript/TypeScript", level: 75 },
-        { name: "LabVIEW", level: 70 },
+        { name: "HTML", level: 90 },
         { name: "SQL", level: 65 }
       ]
     },
