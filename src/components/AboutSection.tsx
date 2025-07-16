@@ -5,7 +5,7 @@ import { Calendar, MapPin, GraduationCap, Target } from "lucide-react";
 const AboutSection = () => {
   const education = [
     {
-      degree: "Master of Engineering",
+      degree: "Master Science",
       field: "Automation and Digitalization",
       institution: "Hamburg University of Applied Sciences",
       location: "Hamburg, Germany",
