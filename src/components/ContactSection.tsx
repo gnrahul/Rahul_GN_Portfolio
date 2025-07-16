@@ -44,8 +44,8 @@ const ContactSection = () => {
     {
       icon: MapPin,
       label: "Location",
-      value: "Hamburg, Germany",
-      link: "https://maps.google.com/?q=Hamburg,Germany",
+      value: "101 InStade Appartments, Wallstraße 28, Stade, Lower Saxony, Germany",
+      link: "https://maps.app.goo.gl/2mSmgjSn4g4poYAWA",
       color: "text-soft-orange"
     }
   ];
@@ -55,21 +55,21 @@ const ContactSection = () => {
       icon: Linkedin,
       label: "LinkedIn",
       value: "Connect on LinkedIn",
-      link: "https://linkedin.com/in/rahul-gudarlahalli",
+      link: "https://www.linkedin.com/in/rahul-g-n/",
       color: "text-primary"
     },
     {
       icon: Github,
       label: "GitHub",
       value: "View GitHub Profile",
-      link: "https://github.com/rahul-gudarlahalli",
+      link: "https://github.com/gnrahul/",
       color: "text-muted-foreground"
     },
     {
       icon: ExternalLink,
       label: "Portfolio",
       value: "View Full Portfolio",
-      link: "https://rahul-portfolio.dev",
+      link: "https://gnrahul.github.io",
       color: "text-accent"
     }
   ];
@@ -281,7 +281,7 @@ const ContactSection = () => {
             © 2025 Rahul Gudarlahalli Narasimha Reddy. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground mt-2">
-            Built with passion for automation and innovation
+            Built with passion and automation the world.
           </p>
         </div>
       </div>
